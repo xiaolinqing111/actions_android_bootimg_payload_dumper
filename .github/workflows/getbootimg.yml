@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://gauss-compotacostauto-cn.allawnfs.com/remove-df6b31b8e97132c951627742d51922b0/component-ota/21/11/26/0b7f3b6b324c4674b10b72d34faab2f3.zip
   TZ: Asia/Shanghai
 
 jobs:
